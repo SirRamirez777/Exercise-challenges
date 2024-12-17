@@ -1,3 +1,3 @@
-+ NonRepeating..
++ NonRepeating.
 + CaesarCipher.
 + GetWeather using JavaScript.
